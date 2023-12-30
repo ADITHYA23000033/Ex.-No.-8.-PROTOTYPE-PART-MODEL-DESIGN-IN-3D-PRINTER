@@ -47,7 +47,7 @@
 
 ## Output:
 
-![image](https://github.com/ADITHYA23000033/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/148514544/ee9fbf56-b460-48ab-9175-c698935a423c)
+![image](https://github.com/ADITHYA23000033/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/148514544/a298bad4-5a70-43a2-be38-5b2376920710)
 
 ### Name: ADITHYA V
 ### Register Number: 23000033
